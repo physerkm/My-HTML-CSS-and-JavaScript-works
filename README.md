@@ -1,1 +1,1 @@
-# My-HTML-CSS-and-JavaScript-works
+# My HTML CSS and JavaScript works
